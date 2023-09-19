@@ -1,9 +1,8 @@
 # Incident Response Playbooks
 
-![GitHub Issues](https://img.shields.io/github/issues/LetsDefend/incident-response-playbooks)
-![GitHub Stars](https://img.shields.io/github/stars/LetsDefend/incident-response-playbooks)
 
-Welcome to the Incident Response Playbooks repository! This collection of playbooks is designed to assist security experts in responding to various security incidents effectively. Whether you're new to incident response or a seasoned professional, you'll find valuable resources here to help you navigate and mitigate security threats.
+Welcome to the Incident Response Playbooks repository! We're creating these playbooks with the knowledge gained from [LetsDefend](https://letsdefend.io/) to assist security experts in responding to various security incidents effectively. Whether you're new to incident response or a seasoned professional, you'll find valuable resources here to help you navigate and mitigate security threats.
+
 
 ## Table of Contents
 
@@ -11,7 +10,6 @@ Welcome to the Incident Response Playbooks repository! This collection of playbo
 - [Playbooks](#playbooks)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

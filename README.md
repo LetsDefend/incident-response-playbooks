@@ -20,6 +20,7 @@ Incident response is a critical aspect of maintaining the security of any organi
 Our playbooks are organized into categories for easy navigation and access. You can explore these categories to find playbooks that match your specific needs:
 
 - [Ransomware](Ransomware)
+- [Malware](Malware)
 
 Feel free to use, modify, and contribute to these playbooks to improve incident response across the security community.
 
